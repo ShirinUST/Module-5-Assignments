@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NaaptolNUnit", "NaaptolNUnit\NaaptolNUnit.csproj", "{6917DF78-E312-4AE7-B04B-0E3715B313D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonPlaceholderPW", "JsonPlaceholderPW\JsonPlaceholderPW.csproj", "{5FE8A597-7716-4ACB-AE3C-6F395F0F1CA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6917DF78-E312-4AE7-B04B-0E3715B313D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6917DF78-E312-4AE7-B04B-0E3715B313D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6917DF78-E312-4AE7-B04B-0E3715B313D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6917DF78-E312-4AE7-B04B-0E3715B313D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE8A597-7716-4ACB-AE3C-6F395F0F1CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE8A597-7716-4ACB-AE3C-6F395F0F1CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE8A597-7716-4ACB-AE3C-6F395F0F1CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE8A597-7716-4ACB-AE3C-6F395F0F1CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57F57D98-5DB7-463E-82C8-A74AB045ABD8}
+	EndGlobalSection
+EndGlobal
